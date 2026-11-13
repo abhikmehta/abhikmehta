@@ -1,6 +1,6 @@
 ### Hi, I'm Abhik Mehta 👋
 
-I'm a **Solution Integrator ** transitioning into **Technical Program Management (TPM)**, **Cloud Infrastructure**, and **Business Intelligence**. I bridge large-scale physical data center operations working with Google for NASA region. with **Google Cloud**,**AWS Cloud**, **Agentic AI**, and **data-driven automation**.
+I'm a **Solution Integrator** transitioning into **Technical Program Management (TPM)**, **Cloud Infrastructure**, and **Business Intelligence**. I bridge large-scale physical data center operations working with Google for NASA region. with **Google Cloud**,**AWS Cloud**, **Agentic AI**, and **data-driven automation**.
 
 ---
 
